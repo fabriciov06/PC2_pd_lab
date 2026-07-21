@@ -8,4 +8,7 @@ Para resolver este problema, aplicamos el patrón Decorator. Este patrón de dis
 Esto cumple con el Principio Abierto-Cerrado: el código está abierto a la extensión (podemos crear nuevos complementos) pero cerrado a la modificación (no alteramos el código de los cafés base).
 
 # 2. Diagrama UML
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bfbd7fa8-332b-4220-8f0e-147f5de9fae6" />
+<img width="1470" height="1070" alt="image" src="https://github.com/user-attachments/assets/733b8cfc-2faa-4af6-8014-5d896bea32ea" />
+
+# 3. Salida
+<img width="467" height="290" alt="image" src="https://github.com/user-attachments/assets/0371c157-030a-43af-ad8a-89c4d427b806" />
